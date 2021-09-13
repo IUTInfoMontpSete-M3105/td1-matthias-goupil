@@ -9526,11 +9526,47 @@
 									"model": {
 										"$ref": "AAAAAAF73gFv3th3mh8="
 									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF73jzhwChBK+U=",
+											"_parent": {
+												"$ref": "AAAAAAF73gFv39iA8ns="
+											},
+											"model": {
+												"$ref": "AAAAAAF73jzhrCg+UJk="
+											},
+											"font": "Arial;13;0",
+											"left": 1157,
+											"top": 564,
+											"width": 191,
+											"height": 13,
+											"text": "+créerDevoir(Cours): Devoir",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF73j2EDim101Q=",
+											"_parent": {
+												"$ref": "AAAAAAF73gFv39iA8ns="
+											},
+											"model": {
+												"$ref": "AAAAAAF73j2EAymy73E="
+											},
+											"font": "Arial;13;0",
+											"left": 1157,
+											"top": 579,
+											"width": 191,
+											"height": 13,
+											"text": "+noter()",
+											"horizontalAlignment": 0
+										}
+									],
 									"font": "Arial;13;0",
 									"left": 1152,
 									"top": 559,
 									"width": 201,
-									"height": 10
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -12869,6 +12905,45 @@
 							},
 							"name": "harpège",
 							"type": "String"
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF73jzhrCg+UJk=",
+							"_parent": {
+								"$ref": "AAAAAAF73gFv3th3mh8="
+							},
+							"name": "créerDevoir",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF73j03sSjVeP8=",
+									"_parent": {
+										"$ref": "AAAAAAF73jzhrCg+UJk="
+									},
+									"name": "Cours"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF73j03sSjWRDA=",
+									"_parent": {
+										"$ref": "AAAAAAF73jzhrCg+UJk="
+									},
+									"type": {
+										"$ref": "AAAAAAF73ggd2Nlxfkc="
+									},
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF73j2EAymy73E=",
+							"_parent": {
+								"$ref": "AAAAAAF73gFv3th3mh8="
+							},
+							"name": "noter"
 						}
 					]
 				},
