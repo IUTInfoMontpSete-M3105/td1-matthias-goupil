@@ -1397,7 +1397,7 @@
 									"font": "Arial;13;0",
 									"left": 617.5,
 									"top": 172.5,
-									"width": 200,
+									"width": 200.708984375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73euuH4P9fvI="
@@ -1596,7 +1596,7 @@
 									"font": "Arial;13;0",
 									"left": 661.5,
 									"top": 380.5,
-									"width": 103,
+									"width": 103.92626953125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73exOvIQsQ8A="
@@ -1795,7 +1795,7 @@
 									"font": "Arial;13;0",
 									"left": 665.5,
 									"top": 428.5,
-									"width": 120,
+									"width": 121.2490234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73exr44RaXXE="
@@ -1994,7 +1994,7 @@
 									"font": "Arial;13;0",
 									"left": 680.5,
 									"top": 476.5,
-									"width": 194,
+									"width": 194.92626953125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73eyJqoSIb50="
@@ -2193,7 +2193,7 @@
 									"font": "Arial;13;0",
 									"left": 575.5,
 									"top": 804.5,
-									"width": 113,
+									"width": 113.3271484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73e5DNITCP4w="
@@ -2392,7 +2392,7 @@
 									"font": "Arial;13;0",
 									"left": 848.5,
 									"top": 804.5,
-									"width": 155,
+									"width": 155.9580078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73e5b8YTwZ94="
@@ -3683,7 +3683,7 @@
 									"font": "Arial;13;0",
 									"left": 546,
 									"top": 548.5,
-									"width": 124,
+									"width": 124.88623046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73e/YO4ezZas="
@@ -4354,7 +4354,7 @@
 									"font": "Arial;13;0",
 									"left": 819,
 									"top": 588.5,
-									"width": 130,
+									"width": 130.630859375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fDptopj9r0="
@@ -4553,7 +4553,7 @@
 									"font": "Arial;13;0",
 									"left": 597,
 									"top": 996.5,
-									"width": 99,
+									"width": 100.314453125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fHg9415zAQ="
@@ -4752,7 +4752,7 @@
 									"font": "Arial;13;0",
 									"left": 603.5,
 									"top": 1100.5,
-									"width": 131,
+									"width": 132.078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fIb448QwVo="
@@ -4951,7 +4951,7 @@
 									"font": "Arial;13;0",
 									"left": 869.5,
 									"top": 988.5,
-									"width": 180,
+									"width": 180.498046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fKGzI/gVJY="
@@ -6253,7 +6253,7 @@
 									"font": "Arial;13;0",
 									"left": 818.5,
 									"top": 692.5,
-									"width": 127,
+									"width": 127.01904296875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fmACbUep+0="
@@ -6640,7 +6640,7 @@
 									"font": "Arial;13;0",
 									"left": 898.5,
 									"top": 644.5,
-									"width": 127,
+									"width": 127.01904296875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fqAFL38JRw="
@@ -6933,7 +6933,7 @@
 									"font": "Arial;13;0",
 									"left": 601.5,
 									"top": 292.5,
-									"width": 122,
+									"width": 122.70263671875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73fspicAWNdY="
@@ -7132,7 +7132,7 @@
 									"font": "Arial;13;0",
 									"left": 600,
 									"top": 236.5,
-									"width": 113,
+									"width": 114.025390625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73ftjc8EcOhs="
@@ -15275,9 +15275,9 @@
 												"$ref": "AAAAAAF73l8UXi7haOE="
 											},
 											"font": "Arial;13;0",
-											"left": 30.55908203125,
-											"top": 13,
-											"width": 236.16162109375,
+											"left": 184.72998046875,
+											"top": 45,
+											"width": 267.18896484375,
 											"height": 13,
 											"text": "Diagramme de séquence | affecter enseignant"
 										},
@@ -15288,9 +15288,88 @@
 												"$ref": "AAAAAAF73l8UXi7haOE="
 											},
 											"font": "Arial;13;1",
+											"left": 165,
+											"top": 45,
+											"width": 14.72998046875,
+											"height": 13,
+											"text": "sd"
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 160,
+									"top": 40,
+									"width": 1025,
+									"height": 592,
+									"nameLabel": {
+										"$ref": "AAAAAAF73l8UXi7iX4Q="
+									},
+									"frameTypeLabel": {
+										"$ref": "AAAAAAF73l8UXy7jUIM="
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"_type": "UMLCollaboration",
+			"_id": "AAAAAAF8Ae4AetcvyNk=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Question 3.3",
+			"ownedElements": [
+				{
+					"_type": "UMLInteraction",
+					"_id": "AAAAAAF8Ae4AfNcwMuo=",
+					"_parent": {
+						"$ref": "AAAAAAF8Ae4AetcvyNk="
+					},
+					"name": "Interaction1",
+					"ownedElements": [
+						{
+							"_type": "UMLSequenceDiagram",
+							"_id": "AAAAAAF8Ae4AfNcxDh8=",
+							"_parent": {
+								"$ref": "AAAAAAF8Ae4AfNcwMuo="
+							},
+							"name": "Diagramme de séquence | saisir note",
+							"ownedViews": [
+								{
+									"_type": "UMLFrameView",
+									"_id": "AAAAAAF8Ae4AfNcyFN4=",
+									"_parent": {
+										"$ref": "AAAAAAF8Ae4AfNcxDh8="
+									},
+									"model": {
+										"$ref": "AAAAAAF8Ae4AfNcxDh8="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF8Ae4AfNczJS0=",
+											"_parent": {
+												"$ref": "AAAAAAF8Ae4AfNcyFN4="
+											},
+											"font": "Arial;13;0",
+											"left": 32.72998046875,
+											"top": 13,
+											"width": 216.0966796875,
+											"height": 13,
+											"text": "Diagramme de séquence | saisir note"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF8Ae4Afdc0mTE=",
+											"_parent": {
+												"$ref": "AAAAAAF8Ae4AfNcyFN4="
+											},
+											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 12.55908203125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -15301,10 +15380,10 @@
 									"width": 692,
 									"height": 592,
 									"nameLabel": {
-										"$ref": "AAAAAAF73l8UXi7iX4Q="
+										"$ref": "AAAAAAF8Ae4AfNczJS0="
 									},
 									"frameTypeLabel": {
-										"$ref": "AAAAAAF73l8UXy7jUIM="
+										"$ref": "AAAAAAF8Ae4Afdc0mTE="
 									}
 								}
 							]
